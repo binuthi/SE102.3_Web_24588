@@ -1,0 +1,12 @@
+<html>
+<body>
+<?php 
+for($a=5;$a<=15;$a++)
+{
+    echo $a."<br>";
+}
+?>
+
+
+</body>
+</html>
